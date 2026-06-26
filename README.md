@@ -1,5 +1,6 @@
 # Friendly Kitties catpack
-A Prism Launcher catpack that randomly shows cat related memes and pictures of my friend's cat
+A Prism Launcher catpack that randomly shows cat related memes and pictures of my friends' cats.
+Feel free to make PRs to add your own cat(s).
 
 ## Installation
 1. Go to the [releases page](https://github.com/ReactorFailure/FriendlyKitties-Catpack/releases) and download the latest zip file
